@@ -66,35 +66,7 @@ Beyond that, I'm actively exploring **agentic vision** — building models that 
 
 ## 🚀 Selected Projects
 
-<details open>
-<summary><b>🤖 Agentic Segmentation Framework</b> — interactive vision agents via SFT + GRPO</summary>
-
-<br/>
-
-A vision agent that turns a frozen SAM backbone into an iterative, prompt-driven segmenter. Stage 1: instruction-tuning with LoRA SFT (5 epochs, loss 0.018). Stage 2: GRPO post-training via the `verl` framework to refine prompt strategy under few-shot user feedback.
-
-- Stack: SAM ViT-B · LoRA · GRPO · `verl.trainer.main_ppo` · vLLM rollout
-- Engineering: `gpu_memory_utilization=0.3` is critical on H200 to avoid OOM at long context
-
-</details>
-
-<details>
-<summary><b>🛰️ HySAM</b> — hyperbolic uncertainty disentanglement for point-supervised segmentation</summary>
-
-<br/>
-
-A plug-in module on top of **ReSAM** that disentangles aleatoric / epistemic uncertainty in hyperbolic space, suppressing ambiguity inherent to point-level supervision. Systematic benchmarks on NWPU VHR-10, HRSID-inshore, and WHU, with side-by-side comparison to PointSAM.
-
-</details>
-
-<details>
-<summary><b>🌈 Hyperspectral Benchmarks</b> — spectral–spatial pipelines on benchmark scenes</summary>
-
-<br/>
-
-Ongoing work on hyperspectral scene classification. Building spectral–spatial encoders with masked self-supervision to handle cross-sensor / cross-scene shifts. Detailed results will be updated once the manuscript is in preparation.
-
-</details>
+_To be added._
 
 ---
 
@@ -133,10 +105,7 @@ Ongoing work on hyperspectral scene classification. Building spectral–spatial 
 
 ## 🏆 Honors & Extras
 
-- 📄 1 SCI Q1 paper published
-- 🎖 Provincial scholarship · Three-good Student · Civilization Honor
-- 🗣 CET-4 · Mandarin Level 2A
-- 💻 Daily experiments on RTX 5090 (32 GB) + H200 (143 GB); comfortable with multi-GPU and cluster scheduling
+_To be added._
 
 ---
 
@@ -164,7 +133,8 @@ Ongoing work on hyperspectral scene classification. Building spectral–spatial 
 ===========================================================
   发布前需要替换的占位符：
   1. YOUR_EMAIL     -> 你的邮箱（mailto 链接，不填就删掉这一行徽章）
-  2. 「Hyperspectral Benchmarks」项目当前为占位描述，待论文/代码准备就绪后替换
+  2. Selected Projects / Honors & Extras 当前显示 _To be added._，
+     后续要把对应 `<details>` 折叠卡或 bullet 写进去
   3. Publications 表格中其他两行（EAAI / TGRS）和专利条目已暂时移除，
      后续要加直接复制 Information Sciences 那行的格式即可
 ===========================================================
