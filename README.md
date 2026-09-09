@@ -58,15 +58,9 @@ Beyond that, I'm actively exploring **agentic vision** — building models that 
 
 ## 📚 Publications
 
-> Research output centers on remote sensing vision and agentic foundation models.
-
 | Year | Venue | Title | Role | Status |
 | :--- | :---- | :---- | :--- | :----- |
-| 2026 | **Information Sciences** (SCI Q1) | [填写论文标题] | 二作 | ✅ Published |
-| 2026 | **Engineering Applications of Artificial Intelligence** | [填写论文标题] | 二作 | 🕐 Under Review |
-| 2026 | **IEEE TGRS** | [填写论文标题] | 二作 | 🕐 Under Review |
-
-**Patents**: 2 invention patents pending (primary co-inventor; titles TBD)
+| 2026 | **Information Sciences** (SCI Q1) | Jointly detecting humor and sarcasm with fuzzy emotion knowledge fusion from graph learning perspective | 二作 | ✅ Published |
 
 ---
 
@@ -168,10 +162,10 @@ Ongoing work on hyperspectral scene classification. Building spectral–spatial 
 
 <!--
 ===========================================================
-  发布前需要替换的占位符（全局搜索替换即可）：
+  发布前需要替换的占位符：
   1. YOUR_EMAIL     -> 你的邮箱（mailto 链接，不填就删掉这一行徽章）
-  2. [填写论文标题]  -> 三篇论文的完整标题
-  3. 专利名称        -> 2 项已受理发明专利的名称
-  4. 「Hyperspectral Benchmarks」项目当前为占位描述，待论文/代码准备就绪后替换
+  2. 「Hyperspectral Benchmarks」项目当前为占位描述，待论文/代码准备就绪后替换
+  3. Publications 表格中其他两行（EAAI / TGRS）和专利条目已暂时移除，
+     后续要加直接复制 Information Sciences 那行的格式即可
 ===========================================================
 -->
