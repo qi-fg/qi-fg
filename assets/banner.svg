@@ -79,12 +79,12 @@
 
   <!-- research direction chips -->
   <g transform="translate(72,168)">
-    <rect x="0"   y="0" width="148" height="26" rx="13" fill="#f8fafc" fill-opacity="0.12" stroke="#f8fafc" stroke-opacity="0.25"/>
-    <text   x="14"  y="18" class="label">Medical Imaging</text>
-    <rect x="158" y="0" width="148" height="26" rx="13" fill="#f8fafc" fill-opacity="0.12" stroke="#f8fafc" stroke-opacity="0.25"/>
-    <text   x="172" y="18" class="label">Remote Sensing</text>
-    <rect x="316" y="0" width="138" height="26" rx="13" fill="#f8fafc" fill-opacity="0.12" stroke="#f8fafc" stroke-opacity="0.25"/>
-    <text   x="330" y="18" class="label">EEG Decoding</text>
+    <rect x="0"   y="0" width="190" height="26" rx="13" fill="#f8fafc" fill-opacity="0.12" stroke="#f8fafc" stroke-opacity="0.25"/>
+    <text   x="14"  y="18" class="label">Hyperspectral Classification</text>
+    <rect x="200" y="0" width="220" height="26" rx="13" fill="#f8fafc" fill-opacity="0.12" stroke="#f8fafc" stroke-opacity="0.25"/>
+    <text   x="214" y="18" class="label">Remote Sensing Segmentation</text>
+    <rect x="430" y="0" width="160" height="26" rx="13" fill="#f8fafc" fill-opacity="0.12" stroke="#f8fafc" stroke-opacity="0.25"/>
+    <text   x="444" y="18" class="label">Agentic Vision</text>
   </g>
 
   <!-- quote -->
