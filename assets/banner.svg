@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Li Yongqi - AI Researcher">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Li Yongqi - AI Researcher">
   <title>Li Yongqi · AI Researcher</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%"   class="g0"/>
-      <stop offset="52%"  class="g1"/>
+      <stop offset="55%"  class="g1"/>
       <stop offset="100%" class="g2"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
@@ -12,65 +12,85 @@
     </linearGradient>
     <style>
       .g0 { stop-color:#0b1220; }
-      .g1 { stop-color:#16337a; }
+      .g1 { stop-color:#0f3460; }
       .g2 { stop-color:#0e7490; }
       .a0 { stop-color:#38bdf8; }
       .a1 { stop-color:#a78bfa; }
-      .title { fill:#f8fafc; font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif; font-size:62px; font-weight:700; letter-spacing:1px; }
-      .cn    { fill:#cbd5e1; font-family:'Microsoft YaHei','Segoe UI',Arial,sans-serif; font-size:24px; font-weight:400; letter-spacing:6px; }
-      .sub   { fill:#93c2d6; font-family:'Consolas','Fira Code',monospace; font-size:19px; letter-spacing:0.5px; }
-      .tag   { fill:#0b1220; font-family:'Consolas','Fira Code',monospace; font-size:15px; font-weight:700; }
-      .grid  { stroke:#ffffff; stroke-opacity:0.07; }
-      .node  { fill:#38bdf8; fill-opacity:0.9; }
-      .node2 { fill:#a78bfa; fill-opacity:0.95; }
-      .link  { stroke:#7dd3fc; stroke-opacity:0.35; stroke-width:1.2; }
+      .name    { fill:#f8fafc; font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif; font-size:64px; font-weight:700; letter-spacing:0.5px; }
+      .role    { fill:#cbd5e1; font-family:'Segoe UI',Arial,sans-serif; font-size:18px; font-weight:500; letter-spacing:3px; }
+      .label   { fill:#0b1220; font-family:'Consolas','JetBrains Mono',monospace; font-size:13px; font-weight:700; letter-spacing:0.5px; }
+      .quote   { fill:#94a3b8; font-family:'Consolas','JetBrains Mono',monospace; font-size:14px; font-style:italic; }
+      .end     { fill:#94a3b8; font-family:'Segoe UI',Arial,sans-serif; font-size:13px; letter-spacing:1.2px; }
+      .grid    { stroke:#ffffff; stroke-opacity:0.06; stroke-width:1; }
+      .contour { fill:none; stroke:#7dd3fc; stroke-opacity:0.55; stroke-width:1.4; }
+      .contour2{ fill:none; stroke:#a78bfa; stroke-opacity:0.45; stroke-width:1.2; stroke-dasharray:3 4; }
+      .pt      { fill:#7dd3fc; }
+      .pt2     { fill:#a78bfa; }
       @media (prefers-color-scheme: light) {
-        .g0 { stop-color:#f8fafc; }
-        .g1 { stop-color:#dbeafe; }
-        .g2 { stop-color:#cffafe; }
-        .title { fill:#0f172a; }
-        .cn    { fill:#334155; }
-        .sub   { fill:#0e7490; }
-        .grid  { stroke:#0f172a; stroke-opacity:0.06; }
-        .node  { fill:#0284c7; }
-        .node2 { fill:#7c3aed; }
-        .link  { stroke:#0369a1; stroke-opacity:0.35; }
+        .g0 { stop-color:#e0f2fe; }
+        .g1 { stop-color:#cffafe; }
+        .g2 { stop-color:#dbeafe; }
+        .name  { fill:#0f172a; }
+        .role  { fill:#334155; }
+        .label { fill:#0c4a6e; }
+        .quote { fill:#0369a1; }
+        .end   { fill:#475569; }
+        .grid  { stroke:#0f172a; stroke-opacity:0.07; }
+        .contour  { stroke:#0284c7; stroke-opacity:0.55; }
+        .contour2 { stroke:#7c3aed; stroke-opacity:0.45; }
+        .pt   { fill:#0284c7; }
+        .pt2  { fill:#7c3aed; }
       }
     </style>
   </defs>
 
-  <rect width="1200" height="300" fill="url(#bg)"/>
+  <!-- background -->
+  <rect width="1280" height="320" fill="url(#bg)"/>
 
-  <!-- decorative grid -->
-  <g class="grid" stroke-width="1">
-    <path d="M0 40H1200M0 90H1200M0 140H1200M0 190H1200M0 240H1200"/>
-    <path d="M60 0V300M140 0V300M220 0V300M300 0V300M380 0V300M460 0V300M540 0V300M620 0V300M700 0V300M780 0V300M860 0V300M940 0V300M1020 0V300M1100 0V300M1180 0V300"/>
+  <!-- subtle grid -->
+  <g class="grid">
+    <path d="M0 40H1280M0 80H1280M0 120H1280M0 160H1280M0 200H1280M0 240H1280M0 280H1280"/>
+    <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320M1200 0V320"/>
   </g>
 
-  <!-- neural net decoration -->
-  <g transform="translate(880,150)">
-    <g class="link" fill="none">
-      <path d="M-150 -70 L-40 -50"/><path d="M-150 -70 L-40 10"/><path d="M-150 0 L-40 -50"/>
-      <path d="M-150 0 L-40 10"/><path d="M-150 70 L-40 -50"/><path d="M-150 70 L-40 10"/>
-      <path d="M-40 -50 L70 -35"/><path d="M-40 -50 L70 35"/><path d="M-40 10 L70 -35"/><path d="M-40 10 L70 35"/>
-      <path d="M70 -35 L160 -12"/><path d="M70 -35 L160 12"/><path d="M70 35 L160 12"/>
-    </g>
-    <g>
-      <circle cx="-150" cy="-70" r="7" class="node"/>
-      <circle cx="-150" cy="0"   r="7" class="node"/>
-      <circle cx="-150" cy="70"  r="7" class="node"/>
-      <circle cx="-40"  cy="-50" r="8" class="node2"/>
-      <circle cx="-40"  cy="10"  r="8" class="node2"/>
-      <circle cx="70"   cy="-35" r="8" class="node2"/>
-      <circle cx="70"   cy="35"  r="8" class="node2"/>
-      <circle cx="160"  cy="-12" r="9" class="node"/>
-      <circle cx="160"  cy="12"  r="9" class="node"/>
-    </g>
+  <!-- right side: SAM-style segmentation mask contour (abstract) -->
+  <g transform="translate(880,160)">
+    <!-- outer contour -->
+    <path class="contour" d="M -180 -70 Q -140 -100 -80 -85 T 40 -95 Q 110 -90 160 -55 Q 200 -20 190 30 Q 175 80 110 95 Q 50 110 -10 100 Q -90 95 -140 70 Q -200 30 -195 -20 Z"/>
+    <!-- inner dashed contour (uncertainty boundary) -->
+    <path class="contour2" d="M -150 -50 Q -110 -75 -55 -65 T 30 -72 Q 90 -65 130 -40 Q 160 -10 150 25 Q 135 65 80 75 Q 30 88 -10 80 Q -75 75 -120 55 Q -160 25 -158 -15 Z"/>
+    <!-- point prompts -->
+    <circle class="pt"  cx="-130" cy="-40" r="4"/>
+    <circle class="pt"  cx="80"   cy="-60" r="4"/>
+    <circle class="pt"  cx="120"  cy="50"  r="4"/>
+    <circle class="pt"  cx="-90"  cy="65"  r="4"/>
+    <circle class="pt2" cx="-20"  cy="10"  r="5"/>
+    <!-- center voxel (focus) -->
+    <circle class="pt2" cx="0"    cy="-15" r="6"/>
+    <circle class="pt"  cx="0"    cy="-15" r="2"/>
+    <!-- coordinate markers -->
+    <text x="-200" y="115" class="end" font-family="Consolas,monospace" font-size="11">seg.contour(0.92)</text>
+    <text x="-200" y="130" class="end" font-family="Consolas,monospace" font-size="11" fill-opacity="0.6">uncertainty ±3.2σ</text>
   </g>
 
-  <!-- text -->
-  <text x="70" y="132" class="title">Li Yongqi</text>
-  <text x="74" y="176" class="cn">李 永 琪</text>
-  <text x="72" y="216" class="sub">M.Sc. Candidate · Artificial Intelligence &amp; Computer Vision</text>
-  <rect x="70" y="240" width="470" height="3" rx="1.5" fill="url(#accent)"/>
+  <!-- left text block -->
+  <text x="70" y="110" class="name">Li Yongqi</text>
+  <text x="72" y="142" class="role">M.SC CANDIDATE · AI RESEARCH</text>
+
+  <!-- research direction chips -->
+  <g transform="translate(72,168)">
+    <rect x="0"   y="0" width="148" height="26" rx="13" fill="#f8fafc" fill-opacity="0.12" stroke="#f8fafc" stroke-opacity="0.25"/>
+    <text   x="14"  y="18" class="label">Medical Imaging</text>
+    <rect x="158" y="0" width="148" height="26" rx="13" fill="#f8fafc" fill-opacity="0.12" stroke="#f8fafc" stroke-opacity="0.25"/>
+    <text   x="172" y="18" class="label">Remote Sensing</text>
+    <rect x="316" y="0" width="138" height="26" rx="13" fill="#f8fafc" fill-opacity="0.12" stroke="#f8fafc" stroke-opacity="0.25"/>
+    <text   x="330" y="18" class="label">EEG Decoding</text>
+  </g>
+
+  <!-- quote -->
+  <text x="72" y="222" class="quote">"Bridging foundation models and data-scarce clinical reality."</text>
+
+  <!-- bottom: accent line + status -->
+  <rect x="70" y="252" width="540" height="2" rx="1" fill="url(#accent)"/>
+  <text x="70" y="280" class="end">OPEN TO · ALGORITHM / R&amp;D ROLES · 2027 GRAD</text>
 </svg>
