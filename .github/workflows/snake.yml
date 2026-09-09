@@ -1,0 +1,38 @@
+name: Generate Contribution Snake
+
+on:
+  # 每天 UTC 0 点自动跑一次
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许手动触发
+  workflow_dispatch:
+  # 主分支有 push 时也更新
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake svgs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

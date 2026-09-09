@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Li Yongqi - AI Researcher">
+  <title>Li Yongqi · AI Researcher</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   class="g0"/>
+      <stop offset="52%"  class="g1"/>
+      <stop offset="100%" class="g2"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   class="a0"/>
+      <stop offset="100%" class="a1"/>
+    </linearGradient>
+    <style>
+      .g0 { stop-color:#0b1220; }
+      .g1 { stop-color:#16337a; }
+      .g2 { stop-color:#0e7490; }
+      .a0 { stop-color:#38bdf8; }
+      .a1 { stop-color:#a78bfa; }
+      .title { fill:#f8fafc; font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif; font-size:62px; font-weight:700; letter-spacing:1px; }
+      .cn    { fill:#cbd5e1; font-family:'Microsoft YaHei','Segoe UI',Arial,sans-serif; font-size:24px; font-weight:400; letter-spacing:6px; }
+      .sub   { fill:#93c2d6; font-family:'Consolas','Fira Code',monospace; font-size:19px; letter-spacing:0.5px; }
+      .tag   { fill:#0b1220; font-family:'Consolas','Fira Code',monospace; font-size:15px; font-weight:700; }
+      .grid  { stroke:#ffffff; stroke-opacity:0.07; }
+      .node  { fill:#38bdf8; fill-opacity:0.9; }
+      .node2 { fill:#a78bfa; fill-opacity:0.95; }
+      .link  { stroke:#7dd3fc; stroke-opacity:0.35; stroke-width:1.2; }
+      @media (prefers-color-scheme: light) {
+        .g0 { stop-color:#f8fafc; }
+        .g1 { stop-color:#dbeafe; }
+        .g2 { stop-color:#cffafe; }
+        .title { fill:#0f172a; }
+        .cn    { fill:#334155; }
+        .sub   { fill:#0e7490; }
+        .grid  { stroke:#0f172a; stroke-opacity:0.06; }
+        .node  { fill:#0284c7; }
+        .node2 { fill:#7c3aed; }
+        .link  { stroke:#0369a1; stroke-opacity:0.35; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- decorative grid -->
+  <g class="grid" stroke-width="1">
+    <path d="M0 40H1200M0 90H1200M0 140H1200M0 190H1200M0 240H1200"/>
+    <path d="M60 0V300M140 0V300M220 0V300M300 0V300M380 0V300M460 0V300M540 0V300M620 0V300M700 0V300M780 0V300M860 0V300M940 0V300M1020 0V300M1100 0V300M1180 0V300"/>
+  </g>
+
+  <!-- neural net decoration -->
+  <g transform="translate(880,150)">
+    <g class="link" fill="none">
+      <path d="M-150 -70 L-40 -50"/><path d="M-150 -70 L-40 10"/><path d="M-150 0 L-40 -50"/>
+      <path d="M-150 0 L-40 10"/><path d="M-150 70 L-40 -50"/><path d="M-150 70 L-40 10"/>
+      <path d="M-40 -50 L70 -35"/><path d="M-40 -50 L70 35"/><path d="M-40 10 L70 -35"/><path d="M-40 10 L70 35"/>
+      <path d="M70 -35 L160 -12"/><path d="M70 -35 L160 12"/><path d="M70 35 L160 12"/>
+    </g>
+    <g>
+      <circle cx="-150" cy="-70" r="7" class="node"/>
+      <circle cx="-150" cy="0"   r="7" class="node"/>
+      <circle cx="-150" cy="70"  r="7" class="node"/>
+      <circle cx="-40"  cy="-50" r="8" class="node2"/>
+      <circle cx="-40"  cy="10"  r="8" class="node2"/>
+      <circle cx="70"   cy="-35" r="8" class="node2"/>
+      <circle cx="70"   cy="35"  r="8" class="node2"/>
+      <circle cx="160"  cy="-12" r="9" class="node"/>
+      <circle cx="160"  cy="12"  r="9" class="node"/>
+    </g>
+  </g>
+
+  <!-- text -->
+  <text x="70" y="132" class="title">Li Yongqi</text>
+  <text x="74" y="176" class="cn">李 永 琪</text>
+  <text x="72" y="216" class="sub">M.Sc. Candidate · Artificial Intelligence &amp; Computer Vision</text>
+  <rect x="70" y="240" width="470" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
