@@ -58,9 +58,9 @@ Beyond that, I'm actively exploring **agentic vision** — building models that 
 
 ## 📚 Publications
 
-| Year | Venue | Title | Role | Status |
-| :--- | :---- | :---- | :--- | :----- |
-| 2026 | **Information Sciences** (SCI Q1) | Jointly detecting humor and sarcasm with fuzzy emotion knowledge fusion from graph learning perspective | 二作 | ✅ Published |
+| Year | Venue | Title | Status |
+| :--- | :---- | :---- | :----- |
+| 2026 | **Information Sciences** (SCI Q1) | Jointly detecting humor and sarcasm with fuzzy emotion knowledge fusion from graph learning perspective | ✅ Published |
 
 ---
 
