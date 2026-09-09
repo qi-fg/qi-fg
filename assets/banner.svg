@@ -75,7 +75,7 @@
 
   <!-- left text block -->
   <text x="70" y="110" class="name">Li Yongqi</text>
-  <text x="72" y="142" class="role">M.SC CANDIDATE · AI RESEARCH</text>
+  <text x="72" y="142" class="role">M.ENG CANDIDATE · AI RESEARCH</text>
 
   <!-- research direction chips -->
   <g transform="translate(72,168)">

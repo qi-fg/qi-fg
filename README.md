@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=900&color=0E7490&center=true&vCenter=true&width=720&lines=Hyperspectral+Classification+%7C+Remote+Sensing+Segmentation;Agentic+Vision+%7C+Interactive+Reasoning;Final-Year+M.Sc.+%40+HUT+%7C+Open+to+Algorithm+Roles)](https://github.com/qi-fg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=900&color=0E7490&center=true&vCenter=true&width=720&lines=Hyperspectral+Classification+%7C+Remote+Sensing+Segmentation;Agentic+Vision+%7C+Interactive+Reasoning;Final-Year+M.Eng.+%40+HUT+%7C+Open+to+Algorithm+Roles)](https://github.com/qi-fg)
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-I am **Li Yongqi**, a final-year M.Sc. candidate at **Henan University of Technology**, working on **remote sensing image understanding**. My research lives at the intersection of two concrete threads:
+I am **Li Yongqi**, a final-year M.Eng. candidate at **Henan University of Technology**, working on **remote sensing image understanding**. My research lives at the intersection of two concrete threads:
 
 - 🛰️ **Hyperspectral image classification** — exploiting the joint spectral–spatial structure of high-dimensional remote sensing data for robust scene and material recognition under limited labels.
 - 🌐 **Remote sensing image segmentation** — building point-supervised / weakly-supervised segmentation frameworks (e.g., hyperbolic-geometry–based uncertainty disentanglement) that learn from cheap annotations without sacrificing boundary precision.
