@@ -28,8 +28,7 @@ I am **Li Yongqi**, a final-year M.Sc. candidate at **Henan University of Techno
 
 Beyond that, I'm actively exploring **agentic vision** — building models that can perceive, self-prompt, and reason iteratively about visual inputs. My current focus is on interactive segmentation agents built on SAM-family backbones, post-trained with LoRA SFT + GRPO.
 
-- 📄 1 SCI Q1 paper published · 2 under review (EAAI / TGRS) · 2 invention patents pending
-- 💻 Day-to-day on RTX 5090 (32 GB) for fast iteration and H200 (143 GB) for large-scale runs
+- 📄 1 SCI Q1 paper published
 
 ---
 
@@ -140,7 +139,7 @@ Ongoing work on hyperspectral scene classification. Building spectral–spatial 
 
 ## 🏆 Honors & Extras
 
-- 📄 1 SCI Q1 paper published · 2 under review (EAAI / TGRS) · 2 patents pending
+- 📄 1 SCI Q1 paper published
 - 🎖 Provincial scholarship · Three-good Student · Civilization Honor
 - 🗣 CET-4 · Mandarin Level 2A
 - 💻 Daily experiments on RTX 5090 (32 GB) + H200 (143 GB); comfortable with multi-GPU and cluster scheduling
