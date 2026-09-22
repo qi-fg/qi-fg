@@ -67,6 +67,21 @@ Beyond that, I'm actively exploring **agentic vision** — building models that 
 ## 🚀 Selected Projects
 
 <details open>
+<summary><b>🛰️ Remote-Sensing-Image-Segmentation-Models</b> — a curated collection of RS segmentation methods</summary>
+
+<br/>
+
+> A one-stop collection of **remote sensing image segmentation** methods — **40+ papers** organized by family: Classic CNN → Transformer → Foundation Models / SAM → Weakly & point-supervised.
+
+- 📚 Method tables with **paper · venue · year · official code · datasets**
+- 📐 **Runnable baselines** (`U-Net` · `SegFormer` · `SAM`) — each trains **offline** via `--demo`, no dataset / GPU required
+- 📦 Dataset index: Potsdam · Vaihingen · LoveDA · iSAID · DeepGlobe · WHU · HRSID …
+
+🔗 **[github.com/qi-fg/Remote-Sensing-Image-Segmentation-Models](https://github.com/qi-fg/Remote-Sensing-Image-Segmentation-Models)** · `Remote Sensing` `Segmentation` `SAM` `PyTorch`
+
+</details>
+
+<details>
 <summary><b>🌱 miniagent</b> — a tiny, dependency-free LLM agent framework</summary>
 
 <br/>
