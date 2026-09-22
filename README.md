@@ -66,7 +66,21 @@ Beyond that, I'm actively exploring **agentic vision** — building models that 
 
 ## 🚀 Selected Projects
 
-_To be added._
+<details open>
+<summary><b>🌱 miniagent</b> — a tiny, dependency-free LLM agent framework</summary>
+
+<br/>
+
+> Build reasoning agents with the **ReAct loop**, **tools**, and **memory** in a few hundred lines of pure Python. No LangChain, no AutoGen, no bloat.
+
+- 🔌 Pluggable providers: `Mock` (offline) · `OpenAI` · `Anthropic` · `Ollama`
+- 🛠️ Tools via a single `@tool` decorator; transcript memory fed back every step
+- ✅ Ships with offline unit tests and runnable examples — zero API key needed
+- 📦 Pure **standard-library core**; `requests` only for HTTP backends
+
+🔗 **[github.com/qi-fg/miniagent](https://github.com/qi-fg/miniagent)** · `Python` `ReAct` `Agents` `Tools` `LLM`
+
+</details>
 
 ---
 
