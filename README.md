@@ -24,7 +24,7 @@
 I am **Li Yongqi**, a final-year M.Eng. candidate at **Henan University of Technology**, working on **remote sensing image understanding**. My research lives at the intersection of two concrete threads:
 
 - 🛰️ **Hyperspectral image classification** — exploiting the joint spectral–spatial structure of high-dimensional remote sensing data for robust scene and material recognition under limited labels.
-- 🌐 **Remote sensing image segmentation** — building point-supervised / weakly-supervised segmentation frameworks (e.g., hyperbolic-geometry–based uncertainty disentanglement) that learn from cheap annotations without sacrificing boundary precision.
+- 🌐 **Remote sensing image segmentation** — building point-supervised / weakly-supervised segmentation frameworks that learn from cheap annotations without sacrificing boundary precision.
 
 Beyond that, I'm actively exploring **agentic vision** — building models that can perceive, self-prompt, and reason iteratively about visual inputs. My current focus is on interactive segmentation agents built on SAM-family backbones, post-trained with LoRA SFT + GRPO.
 
