@@ -43,8 +43,8 @@ Beyond that, I'm actively exploring **agentic vision** — building models that 
     </td>
     <td width="33%" valign="top">
       <h3>🌐 Remote Sensing Segmentation</h3>
-      <p>Point- and weakly-supervised segmentation for SAR, optical, and aerial imagery. Plug-in modules in hyperbolic space to disentangle aleatoric / epistemic uncertainty and tame label ambiguity, with systematic side-by-side comparison to PointSAM, ReSAM, and SAM2.</p>
-      <p><code>Point-supervised</code> <code>Hyperbolic</code> <code>Uncertainty</code> <code>SAR</code></p>
+      <p>Point- and weakly-supervised segmentation for SAR, optical, and aerial imagery. Focused on cutting annotation cost — label-efficient training pipelines built on top of foundation segmentation models, evaluated across sensors and scenes.</p>
+      <p><code>Point-supervised</code> <code>Weakly-supervised</code> <code>Foundation Models</code> <code>SAR</code></p>
     </td>
     <td width="33%" valign="top">
       <h3>🤖 Agentic Vision</h3>
