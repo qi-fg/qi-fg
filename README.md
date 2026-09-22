@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Li Yongqi · Remote Sensing & Agentic Vision"/>
+<img src="assets/banner.svg?v=2" width="100%" alt="Li Yongqi · Remote Sensing & Agentic Vision"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=900&color=0E7490&center=true&vCenter=true&width=720&lines=Hyperspectral+Classification+%7C+Remote+Sensing+Segmentation;Agentic+Vision+%7C+Interactive+Reasoning;Final-Year+M.Eng.+%40+HUT+%7C+Open+to+Algorithm+Roles)](https://github.com/qi-fg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&height=45&duration=3200&pause=900&color=0E7490&center=true&vCenter=true&width=880&lines=Hyperspectral+Classification+%7C+Remote+Sensing+Segmentation;Agentic+Vision+%7C+Interactive+Reasoning;Final-Year+M.Eng.+%40+HUT+%7C+Open+to+Algorithm+Roles)](https://github.com/qi-fg)
 
 <br/>
 
