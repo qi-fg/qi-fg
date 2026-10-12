@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg?v=2" width="100%" alt="Li Yongqi · Remote Sensing & Agentic Vision"/>
+<img src="assets/banner.svg?v=3" width="100%" alt="Remote Sensing & Agentic Vision"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&height=45&duration=3200&pause=900&color=0E7490&center=true&vCenter=true&width=880&lines=Hyperspectral+Classification+%7C+Remote+Sensing+Segmentation;Agentic+Vision+%7C+Interactive+Reasoning;Final-Year+M.Eng.+%40+HUT+%7C+Open+to+Algorithm+Roles)](https://github.com/qi-fg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&height=45&duration=3200&pause=900&color=0E7490&center=true&vCenter=true&width=880&lines=Hyperspectral+Classification+%7C+Remote+Sensing+Segmentation;Agentic+Vision+%7C+Interactive+Reasoning;Open+to+Algorithm+%2F+R%26D+Roles)](https://github.com/qi-fg)
 
 <br/>
 
@@ -12,8 +12,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.8-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-12.x-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Arch+%7C+Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black)
-![HUT](https://img.shields.io/badge/Henan+University+of+Technology-Zhengzhou-1a73e8?style=flat-square&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open+to-2027+Algorithm+Roles-2EA44F?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open+to-Algorithm+%2F+R%26D+Roles-2EA44F?style=flat-square)
 
 </div>
 
@@ -21,7 +20,7 @@
 
 ## 👋 About Me
 
-I am **Li Yongqi**, a final-year M.Eng. candidate at **Henan University of Technology**, working on **remote sensing image understanding**. My research lives at the intersection of two concrete threads:
+I'm a researcher working at the intersection of **remote sensing image understanding** and **agentic vision**. My work spans two concrete threads:
 
 - 🛰️ **Hyperspectral image classification** — exploiting the joint spectral–spatial structure of high-dimensional remote sensing data for robust scene and material recognition under limited labels.
 - 🌐 **Remote sensing image segmentation** — building point-supervised / weakly-supervised segmentation frameworks that learn from cheap annotations without sacrificing boundary precision.
@@ -144,27 +143,15 @@ _To be added._
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40qi--fg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qi-fg)
 [![Issues](https://img.shields.io/badge/Discussions-Ask%20me%20anything-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qi-fg/qi-fg/discussions)
-[![Email](https://img.shields.io/badge/Email-Me-1a73e8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 <br/><br/>
 
-<sub>📮 最方便的联系方式是邮件或 GitHub Discussions，看到就回。</sub>
+<sub>💬 The easiest way to reach me is via GitHub Discussions — I reply when I see it.</sub>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>⭐ 如果你也在做 <b>遥感视觉 / Agentic Vision / SAM 后训练</b>，欢迎来找我聊，一起做点有意思的东西。</sub>
+  <sub>⭐ If you're also working on <b>remote sensing vision / agentic vision / SAM post-training</b>, feel free to reach out — let's build something interesting together.</sub>
 </div>
-
-<!--
-===========================================================
-  发布前需要替换的占位符：
-  1. YOUR_EMAIL     -> 你的邮箱（mailto 链接，不填就删掉这一行徽章）
-  2. Selected Projects / Honors & Extras 当前显示 _To be added._，
-     后续要把对应 `<details>` 折叠卡或 bullet 写进去
-  3. Publications 表格中其他两行（EAAI / TGRS）和专利条目已暂时移除，
-     后续要加直接复制 Information Sciences 那行的格式即可
-===========================================================
--->
