@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Li Yongqi - AI Researcher">
-  <title>Li Yongqi · AI Researcher</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Remote Sensing & Agentic Vision">
+  <title>Remote Sensing & Agentic Vision</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%"   class="g0"/>
@@ -76,8 +76,8 @@
   </g>
 
   <!-- left text block -->
-  <text x="70" y="110" class="name">Li Yongqi</text>
-  <text x="72" y="142" class="role">M.ENG CANDIDATE · AI RESEARCH</text>
+  <text x="70" y="110" class="name">Remote Sensing</text>
+  <text x="72" y="142" class="role">HYPERSPECTRAL · SEGMENTATION · AGENTIC VISION</text>
 
   <!-- research direction chips — widths sized to text, not guessed:
        12px mono ~= 0.63em/char + 0.5px letter-spacing, plus 12px left / 16px right padding -->
@@ -91,7 +91,7 @@
   </g>
 
   <!-- quote -->
-  <text x="72" y="222" class="quote">"Bridging foundation models and data-scarce clinical reality."</text>
+  <text x="72" y="222" class="quote">"Bridging foundation models and data-scarce remote sensing reality."</text>
 
   <!-- bottom: accent line + status -->
   <rect x="70" y="252" width="540" height="2" rx="1" fill="url(#accent)"/>
