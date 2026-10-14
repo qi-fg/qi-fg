@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I'm a researcher working at the intersection of **remote sensing image understanding** and **agentic vision**. My work spans two concrete threads:
+I'm **Yongqi Li**, a researcher working at the intersection of **remote sensing image understanding** and **agentic vision**. My work spans two concrete threads:
 
 - 🛰️ **Hyperspectral image classification** — exploiting the joint spectral–spatial structure of high-dimensional remote sensing data for robust scene and material recognition under limited labels.
 - 🌐 **Remote sensing image segmentation** — building point-supervised / weakly-supervised segmentation frameworks that learn from cheap annotations without sacrificing boundary precision.
@@ -138,6 +138,9 @@ _To be added._
 ---
 
 ## 📫 Get in Touch
+
+**Name:** Yongqi Li  
+**Email:** [18837902229@163.com](mailto:18837902229@163.com)
 
 <div align="center">
 
